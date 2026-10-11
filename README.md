@@ -1,4 +1,4 @@
-# MasterThesisChatbots
+# CoversationalAIChatbots
 
 This repository contains a minimal chatbot interface developed for a user study on conversational AI. The interface is designed to support controlled chatbot interactions in a clean and neutral layout, with minimal branding to reduce bias during participant testing.
 
