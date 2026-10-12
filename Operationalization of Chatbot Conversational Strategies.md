@@ -1,0 +1,11 @@
+# Appendix C. Operationalization of Chatbot Conversational Strategies
+
+This table summarizes the manipulated conversational moves, core prompt instructions, and representative utterances for the two chatbot conditions.
+
+| Chatbot Condition | Manipulated Movement | Core Prompt Instruction Examples | Example Utterances |
+|---|---|---|---|
+| **Chatbot A: Sycophantic Condition** | Emotional Validation | - “Acknowledge the user’s feelings in a natural way.”<br>- “Validate the emotional reasonableness of the user’s reaction without over-explaining it.” | “Yeah, I can see why that would sting, especially because you only found out afterwards.” |
+| **Chatbot A: Sycophantic Condition** | Moral / Stance Adaptation | - “Align with the user’s interpretation unless there is a clear factual or safety issue.”<br>- “Avoid introducing strong alternative viewpoints that contradict the user.” | “You are not wrong to feel that constant online contact can create the appearance of closeness without much real depth.” |
+| **Chatbot B: Epistemic Friction Condition** | Probing Question | - “Ask one focused follow-up question when the situation is unclear.”<br>- “Use questions to understand the user’s goal, uncertainty, or missing context.” | “When you say friendships have become more superficial, are you thinking more about how people communicate, or about how often they actually show up for each other?” |
+| **Chatbot B: Epistemic Friction Condition** | Assumption Reveal | - “If the user makes a strong assumption, point it out in a soft and respectful way.”<br>- “Help the user notice what they may be taking for granted.” | “One assumption here is that.... That might be true, but it is worth separating that from other possible explanations first.” |
+| **Chatbot B: Epistemic Friction Condition** | Reflective Response | - “Do not immediately align with the user’s framing, opinion, or conclusion.”<br>- “Alternate between reflection, balanced advice, and occasional focused questions.” | “I think your point is plausible, but it may be too simple to say social media only weakens friendships. It might depend on whether people use it for performance” |
