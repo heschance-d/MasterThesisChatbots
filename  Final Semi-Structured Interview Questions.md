@@ -1,0 +1,53 @@
+# Appendix A. Final Semi-Structured Interview Questions
+
+The semi-structured interview consisted of four sections designed to explore participants’ perceptions of the two chatbot conditions, perceived anthropomorphism, self-disclosure, and relational preferences.
+
+## A.1. Recognition and Description of Conversational Differences
+
+This section examines whether participants noticed differences between the two chatbot conditions and how they described those differences in their own words.
+
+**Example questions:**
+
+- How would you describe your experience with each chatbot?
+- Did the chatbots feel different to you? If so, in what way?
+- What stood out to you most in each interaction?
+- Can you give an example of a moment when one chatbot felt different from the other?
+
+## A.2. Anthropomorphism: Perceived Empathy and Agency
+
+This section explores whether participants attributed human-like qualities to either chatbot, particularly in terms of perceived empathy, attentiveness, and independent judgment.
+
+**Example questions:**
+
+- Did either chatbot seem to understand your feelings or perspective?
+- Did one chatbot feel more thoughtful or attentive in the way it responded?
+- Did either chatbot seem to have its own judgment or point of view?
+- Did any response feel especially genuine, artificial, strategic, or automatic?
+- Was there a moment when one chatbot felt more human-like, or less human-like, to you?
+
+## A.3. Self-Disclosure: Breadth and Depth
+
+This section focuses on participants’ willingness to share personal thoughts, experiences, and uncertainties with each chatbot. The questions address both the breadth of self-disclosure (how much participants shared) and its depth (how personal or emotionally significant the disclosed information was).
+
+**Example questions — Breadth:**
+
+- Did you find yourself sharing more with one chatbot than the other?
+- Did either chatbot make you want to elaborate, explain more, or hold back?
+
+**Example questions — Depth:**
+
+- Was there anything you chose not to say to either chatbot?
+- Did either chatbot make you feel comfortable sharing something more personal or emotionally significant?
+- What kind of response made you feel more or less willing to continue sharing?
+
+## A.4. Relational Preference and Future Use
+
+The final section examines participants’ relational orientations toward the two systems, including their sense of connection, preferred conversational partner, and intentions for future use.
+
+**Example questions:**
+
+- Which chatbot would you prefer to continue talking with, and why?
+- Did either chatbot feel more like a conversation partner rather than a tool?
+- Did you feel any sense of connection with either chatbot?
+- Which chatbot would you choose for a similar situation in the future?
+- Would your choice depend on the type of situation? For example, would you prefer different chatbots for emotional support and problem-solving?
